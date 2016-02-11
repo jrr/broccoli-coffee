@@ -1,5 +1,22 @@
 # master
 
+# 0.5.1
+
+* Update broccoli-filter dependency
+
+# 0.5.0
+
+* Upgrade to coffee-script ~1.10.0
+
+# 0.4.1
+
+* Upgrade to coffee-script ~1.9.1
+* Fix off-by-one error in line/column error reporting
+
+# 0.4.0
+
+* Upgrade to coffee-script ~1.9.0
+
 # 0.3.0
 
 * Add support for literate CoffeeScript (`.litcoffee` and `.coffee.md`)
